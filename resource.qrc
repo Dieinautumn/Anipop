@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/button">
+        <file>Button/Classic.png</file>
+        <file>Button/Classic2.png</file>
+        <file>Button/close.png</file>
+        <file>Button/close2.png</file>
+        <file>Button/exit.png</file>
+        <file>Button/exit2.png</file>
+        <file>Button/exitPage.png</file>
+        <file>Button/help.png</file>
+        <file>Button/help2.png</file>
+        <file>Button/HelpText.png</file>
+        <file>Button/no.png</file>
+        <file>Button/no2.png</file>
+        <file>Button/pause.png</file>
+        <file>Button/pause2.png</file>
+        <file>Button/PausePage.png</file>
+        <file>Button/restart.png</file>
+        <file>Button/restart2.png</file>
+        <file>Button/return.png</file>
+        <file>Button/return2.png</file>
+        <file>Button/SCORE.png</file>
+        <file>Button/ScorePage.png</file>
+        <file>Button/start.png</file>
+        <file>Button/start2.png</file>
+        <file>Button/TIME.png</file>
+        <file>Button/yes.png</file>
+        <file>Button/yes2.png</file>
+    </qresource>
+    <qresource prefix="/Ui">
+        <file>ui/Background.png</file>
+        <file>ui/black.png</file>
+        <file>ui/ClassicGame.png</file>
+        <file>ui/GameBackground.png</file>
+        <file>ui/Title.png</file>
+    </qresource>
+    <qresource prefix="/cell">
+        <file>Cell/bear.png</file>
+        <file>Cell/bear_c.png</file>
+        <file>Cell/chicken.png</file>
+        <file>Cell/chicken_c.png</file>
+        <file>Cell/Devilfish.png</file>
+        <file>Cell/fox.png</file>
+        <file>Cell/fox_c.png</file>
+        <file>Cell/frog.png</file>
+        <file>Cell/frog_c.png</file>
+        <file>Cell/hippo.png</file>
+        <file>Cell/hippo_c.png</file>
+        <file>Cell/owl.png</file>
+        <file>Cell/owl_c.png</file>
+    </qresource>
+</RCC>
